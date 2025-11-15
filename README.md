@@ -1,4 +1,4 @@
-# Hi there! I'm Salim Ferchichi 👋 🇹🇳
+# Hi there! I'm Salim Ferchichi 👋
 
 **Junior Full Stack Developer | Passionate about AI and Smart Platforms**
 
@@ -66,7 +66,6 @@ I'm a recent Computer Science graduate with a strong passion for web technologie
 
 ### 📊 GitHub Stats
 
-![Salim's GitHub stats](https://github-readme-stats.vercel.app/api?username=salim923&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salim923&layout=compact)
 
 ---
